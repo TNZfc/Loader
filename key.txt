@@ -34,3 +34,10 @@ NICK
 mercedess1233
 KEY
 Ajh213123MMhekqs7/AiF1adaxd11Bl1ej/hG8GzzhcYfkH6AK0g=
+GUN
+0
+NICK
+sado67
+KEY
+EIK431Cm7cYOyz19bjIcrtsYRQpAJoXRP/gEkIURFJQ=
+
