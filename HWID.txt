@@ -1,2 +1,2 @@
-UID:1 NICK:TNZfc
+UID:1 NAME:TNZfc
 6147a77a-0beb-4bf9-b2f8-ad204bf24045
