@@ -1,2 +1,4 @@
-UID:1
-NICK:tnzfc
+UID:
+1
+NICK:
+tnzfc
